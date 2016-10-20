@@ -1,5 +1,4 @@
 define ohmyzsh::fetch::theme (
-  $filename,
   $url = 'UNSET',
   $source = 'UNSET',
   $content = 'UNSET',
